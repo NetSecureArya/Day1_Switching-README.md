@@ -1,4 +1,4 @@
-# Day1_Switching-README.md
+# Day1_Switching
 # VLANs: Virtualizing Your Network for Efficiency and Security
 
 ## 📘 What is a VLAN?
