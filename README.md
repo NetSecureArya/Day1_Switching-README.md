@@ -73,8 +73,3 @@ copy running-config startup-config	Save your config!
 🧠 Summary
 VLANs are a fundamental part of modern networking, offering security, segmentation, and performance gains. Proper configuration—including trunking, native VLANs, and port roles—is essential for scalable, enterprise-ready networks.
 
-
-
-
-
-
