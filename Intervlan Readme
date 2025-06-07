@@ -1,4 +1,4 @@
-# 🌐 Inter-VLAN Routing – Summary for GitHub Portfolio
+# 🌐 Inter-VLAN Routing Summary
 
 ## 🧠 What is Inter-VLAN Routing?
 
@@ -52,5 +52,7 @@ show vlan brief
 show ip interface brief
 show running-config
 ping [destination IP]
+
+For Practial I added Packet tracer file for Intervlan Routing go check it file name Intervlan Rounting(Roas)
 
 Inter-VLAN routing is a crucial skill for any Network Engineer. Whether you're preparing for CCNA or deploying in a live network, understanding how VLANs communicate at Layer 3 is key to building functional, secure, and scalable infrastructures.
