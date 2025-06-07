@@ -57,7 +57,7 @@ For Practial I added Packet tracer file for Intervlan Routing go check it file n
 
 Inter-VLAN routing is a crucial skill for any Network Engineer. Whether you're preparing for CCNA or deploying in a live network, understanding how VLANs communicate at Layer 3 is key to building functional, secure, and scalable infrastructures.
 
-Here Some VisalS from LAB
+Here are some visuals from the lab.
 ![image](https://github.com/user-attachments/assets/af31185d-3e0d-441b-8bf3-d89cd5d202c1)
 ![image](https://github.com/user-attachments/assets/bfc35c5e-848e-4a3e-b176-3ec00b192f39)
 ![image](https://github.com/user-attachments/assets/d894e0fb-f636-427f-95a6-cb3b09baaada)
